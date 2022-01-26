@@ -49,7 +49,7 @@
 	left: 50%;
 	top: 55%;
 	transform: translate(-50%, -50%);
-	font-family: sans-serif;
+	font-family: 'Roboto', sans-serif;
 	user-select: none;
 }
 .center h1{
@@ -58,6 +58,7 @@
 	width: 900px;
 	font-weight: bold;
 	text-align: center;
+	font-family: 'Roboto', sans-serif;
 }
 .center h2{
 	color: white;
@@ -66,13 +67,9 @@
 	margin-top: 10px;
 	width: 885px;
 	text-align: center;
+	font-family: 'Roboto', sans-serif;
 }
-.center h3{
-	color: white;
-	font-size: 25px;
-	width: 900px;
-	font-weight: bold;
-	text-align: center;
+
 .center .buttons{
 	margin: 35px 280px;
 }
