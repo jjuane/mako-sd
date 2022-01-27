@@ -72,6 +72,10 @@
 
 .center .buttons{
 	margin: 35px 280px;
+	
+img{
+	max-width: 30%;
+	max-height: 30%;
 }
 .buttons button{
 	height: 50px;
